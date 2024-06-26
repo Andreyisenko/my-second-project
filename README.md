@@ -1,3 +1,3 @@
 # my-first-projekt
-new
-This my first projekt
+
+This my first projekt Andrey
